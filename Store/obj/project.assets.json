@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\WebApp\\ToDo\\todo-store\\Store\\Store.csproj",
+      "projectUniqueName": "D:\\WebApp\\ToDo\\todo-store\\store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "d:\\WebApp\\ToDo\\todo-store\\Store\\Store.csproj",
+      "projectPath": "D:\\WebApp\\ToDo\\todo-store\\store\\Store.csproj",
       "packagesPath": "C:\\Users\\Delvis\\.nuget\\packages\\",
-      "outputPath": "d:\\WebApp\\ToDo\\todo-store\\Store\\obj\\",
+      "outputPath": "D:\\WebApp\\ToDo\\todo-store\\store\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2256,8 +2256,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\WebApp\\ToDo\\todo-store\\Repository\\Repository.csproj": {
-              "projectPath": "d:\\WebApp\\ToDo\\todo-store\\Repository\\Repository.csproj"
+            "D:\\WebApp\\ToDo\\todo-store\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\WebApp\\ToDo\\todo-store\\Repository\\Repository.csproj"
             }
           }
         }

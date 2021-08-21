@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzTwWpHe7OXCCGOEq7ivAJ0mqBkNLcf9tsf5mTRNKDamuUxIsWfuXBY5uOPjyQL+89JJBs6ZiEGGAFraTUZmUQ==",
+  "dgSpecHash": "/twweKZE6zhT+pb+KxIzgQowjeXlRDgLqrEIeSnesiv0FyondX/l5+LzwEHd9u6w28VO3t1U4AvOClKS8ZlsXg==",
   "success": true,
-  "projectFilePath": "d:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
+  "projectFilePath": "D:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Delvis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Delvis\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

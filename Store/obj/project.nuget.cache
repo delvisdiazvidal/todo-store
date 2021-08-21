@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9R28xZ0Phnj1SrPWVH8pA+s6f8b6Pxk4h7sjA7JEfRSeH7I34yPs+RVxyYCjHaZthLwRHVB8GK2vz0BPzm6IEQ==",
+  "dgSpecHash": "Va/ii/E2U3K3Iv3Ei022NdtzqPwLs4eW17PSZVwZ+Ee9BsmdVs1/O/sMo/F700gKFJbCjF1ZEEZaQngy8lTUOg==",
   "success": true,
-  "projectFilePath": "d:\\WebApp\\ToDo\\todo-store\\Store\\Store.csproj",
+  "projectFilePath": "D:\\WebApp\\ToDo\\todo-store\\store\\Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Delvis\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Delvis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

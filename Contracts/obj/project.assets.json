@@ -689,11 +689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "D:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "d:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
+      "projectPath": "D:\\WebApp\\ToDo\\todo-store\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\Delvis\\.nuget\\packages\\",
-      "outputPath": "d:\\WebApp\\ToDo\\todo-store\\Contracts\\obj\\",
+      "outputPath": "D:\\WebApp\\ToDo\\todo-store\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -713,8 +713,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {
-              "projectPath": "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj"
+            "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj"
             }
           }
         }

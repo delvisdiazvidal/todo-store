@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {}
+    "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {
+    "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "d:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj",
+        "projectPath": "D:\\WebApp\\ToDo\\todo-store\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Delvis\\.nuget\\packages\\",
-        "outputPath": "d:\\WebApp\\ToDo\\todo-store\\Entities\\obj\\",
+        "outputPath": "D:\\WebApp\\ToDo\\todo-store\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
